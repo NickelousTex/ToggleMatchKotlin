@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/layout_item_match.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/layout/item_match.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_ic_profile.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/layout_fragment_profile.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_ic_discover.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/ic_discover.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_profile_3.png.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/profile_3.png"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/layout_activity_main.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.togglematch.app-debug-53:/drawable_persona_casey.xml.flat",
+        "source": "com.togglematch.app-main-55:/drawable/persona_casey.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_profile_1.png.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/profile_1.png"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_ic_launcher.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_persona_jordan.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/persona_jordan.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_verified_background.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/verified_background.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_persona_alex.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/persona_alex.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_gradient_overlay.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/gradient_overlay.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_online_indicator.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/online_indicator.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/menu_bottom_navigation.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/menu/bottom_navigation.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_ic_launcher_round.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.togglematch.app-debug-53:/drawable_persona_taylor.xml.flat",
+        "source": "com.togglematch.app-main-55:/drawable/persona_taylor.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_profile_4.png.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/profile_4.png"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/xml_backup_rules.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_persona_taylor.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/persona_taylor.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_ic_matches.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/ic_matches.xml"
+    },
+    {
+        "merged": "com.togglematch.app-debug-53:/drawable_persona_alex.xml.flat",
+        "source": "com.togglematch.app-main-55:/drawable/persona_alex.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_interest_tag_background.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/interest_tag_background.xml"
+    },
+    {
+        "merged": "com.togglematch.app-debug-53:/drawable_persona_sam.xml.flat",
+        "source": "com.togglematch.app-main-55:/drawable/persona_sam.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/layout_fragment_discover.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/layout/fragment_discover.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_profile_6.png.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/profile_6.png"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_ic_verified.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/ic_verified.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_profile_2.png.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/profile_2.png"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_toggle_heart_logo.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/toggle_heart_logo.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_launchdarkly_logo.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/launchdarkly_logo.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/layout_fragment_matches.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/layout/fragment_matches.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_profile_5.png.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/profile_5.png"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_persona_casey.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/persona_casey.xml"
+    },
+    {
+        "merged": "com.togglematch.app-debug-53:/drawable_persona_jordan.xml.flat",
+        "source": "com.togglematch.app-main-55:/drawable/persona_jordan.xml"
+    },
+    {
+        "merged": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-debug-53:/drawable_persona_sam.xml.flat",
+        "source": "/Users/nickteixeira/.gradle/daemon/8.13/com.togglematch.app-main-55:/drawable/persona_sam.xml"
+    }
+]

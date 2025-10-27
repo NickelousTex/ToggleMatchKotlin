@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="30dp"
+    android:viewportWidth="120"
+    android:viewportHeight="30">
+    
+    <!-- LaunchDarkly logo - simplified version -->
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M10,5C10,2.2 12.2,0 15,0C17.8,0 20,2.2 20,5C20,7.8 17.8,10 15,10C12.2,10 10,7.8 10,5Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M25,5C25,2.2 27.2,0 30,0C32.8,0 35,2.2 35,5C35,7.8 32.8,10 30,10C27.2,10 25,7.8 25,5Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M40,5C40,2.2 42.2,0 45,0C47.8,0 50,2.2 50,5C50,7.8 47.8,10 45,10C42.2,10 40,7.8 40,5Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M55,5C55,2.2 57.2,0 60,0C62.8,0 65,2.2 65,5C65,7.8 62.8,10 60,10C57.2,10 55,7.8 55,5Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M70,5C70,2.2 72.2,0 75,0C77.8,0 80,2.2 80,5C80,7.8 77.8,10 75,10C72.2,10 70,7.8 70,5Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M85,5C85,2.2 87.2,0 90,0C92.8,0 95,2.2 95,5C95,7.8 92.8,10 90,10C87.2,10 85,7.8 85,5Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M100,5C100,2.2 102.2,0 105,0C107.8,0 110,2.2 110,5C110,7.8 107.8,10 105,10C102.2,10 100,7.8 100,5Z" />
+    
+    <!-- Text "LaunchDarkly" -->
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M15,15L20,15L20,25L15,25Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M25,15L30,15L30,25L25,25Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M35,15L40,15L40,25L35,25Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M45,15L50,15L50,25L45,25Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M55,15L60,15L60,25L55,25Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M65,15L70,15L70,25L65,25Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M75,15L80,15L80,25L75,25Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M85,15L90,15L90,25L85,25Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M95,15L100,15L100,25L95,25Z" />
+    
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M105,15L110,15L110,25L105,25Z" />
+        
+</vector>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme colors for dating app -->
+    <color name="primary">#FF6B6B</color>
+    <color name="primary_variant">#FF5252</color>
+    <color name="secondary">#4ECDC4</color>
+    <color name="secondary_variant">#26A69A</color>
+    <color name="accent">#45B7D1</color>
+    
+    <!-- Background colors -->
+    <color name="background">#0A0A0A</color>
+    <color name="surface">#1A1A1A</color>
+    <color name="surface_variant">#2A2A2A</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_muted">#808080</color>
+    
+    <!-- Status colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+    
+    <!-- Card colors -->
+    <color name="card_background">#1E1E1E</color>
+    <color name="card_border">#333333</color>
+    
+    <!-- Swipe action colors -->
+    <color name="like_color">#4CAF50</color>
+    <color name="pass_color">#F44336</color>
+    <color name="super_like_color">#2196F3</color>
+    
+    <!-- Shadow -->
+    <color name="shadow">#80000000</color>
+    
+    <!-- Standard Material colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

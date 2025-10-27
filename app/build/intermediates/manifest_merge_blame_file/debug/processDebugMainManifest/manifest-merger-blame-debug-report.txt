@@ -1,0 +1,173 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.togglematch"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:7:5-81
+13-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:7:22-78
+14
+15    <permission
+15-->[androidx.core:core:1.12.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/0e6d4f7f6756aa8e55d35523d8521fe0/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+16        android:name="com.togglematch.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.12.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/0e6d4f7f6756aa8e55d35523d8521fe0/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.12.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/0e6d4f7f6756aa8e55d35523d8521fe0/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="com.togglematch.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.12.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/0e6d4f7f6756aa8e55d35523d8521fe0/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.12.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/0e6d4f7f6756aa8e55d35523d8521fe0/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+20
+21    <application
+21-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:9:5-40:19
+22        android:name="com.togglematch.ToggleMatchApplication"
+22-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:10:9-47
+23        android:allowBackup="true"
+23-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:11:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.12.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/0e6d4f7f6756aa8e55d35523d8521fe0/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:12:9-65
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:fullBackupContent="@xml/backup_rules"
+28-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:13:9-54
+29        android:icon="@mipmap/ic_launcher"
+29-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:14:9-43
+30        android:label="@string/app_name"
+30-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:15:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:16:9-54
+32        android:supportsRtl="true"
+32-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:17:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.ToggleMatch" >
+34-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:18:9-49
+35        <activity
+35-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:21:9-29:20
+36            android:name="com.togglematch.LoginActivity"
+36-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:22:13-42
+37            android:exported="true"
+37-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:23:13-36
+38            android:theme="@style/Theme.ToggleMatch" >
+38-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:24:13-53
+39            <intent-filter>
+39-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:25:13-28:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:26:17-69
+40-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:26:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:27:17-77
+42-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:27:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:31:9-34:56
+46            android:name="com.togglematch.MainActivity"
+46-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:32:13-41
+47            android:exported="false"
+47-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:33:13-37
+48            android:theme="@style/Theme.ToggleMatch" />
+48-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:34:13-53
+49        <activity
+49-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:36:9-39:56
+50            android:name="com.togglematch.DiscoverActivity"
+50-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:37:13-45
+51            android:exported="false"
+51-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:38:13-37
+52            android:theme="@style/Theme.ToggleMatch" />
+52-->/Users/nickteixeira/projects/ToggleMatchKotlin/app/src/main/AndroidManifest.xml:39:13-53
+53
+54        <provider
+54-->[androidx.emoji2:emoji2:1.2.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/c253dc6dc41c7959dc2cdee256c97013/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.2.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/c253dc6dc41c7959dc2cdee256c97013/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+56            android:authorities="com.togglematch.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.2.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/c253dc6dc41c7959dc2cdee256c97013/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.2.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/c253dc6dc41c7959dc2cdee256c97013/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.2.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/c253dc6dc41c7959dc2cdee256c97013/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.2.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/c253dc6dc41c7959dc2cdee256c97013/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.2.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/c253dc6dc41c7959dc2cdee256c97013/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/4d4e639b612d33ea7650d6487c89753f/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/4d4e639b612d33ea7650d6487c89753f/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/4d4e639b612d33ea7650d6487c89753f/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+64            <meta-data
+64-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+65                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+65-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+66                android:value="androidx.startup" />
+66-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+67        </provider>
+68
+69        <uses-library
+69-->[androidx.window:window:1.0.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/9c3306a04ebea24dc5eb47a1266cb822/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+70            android:name="androidx.window.extensions"
+70-->[androidx.window:window:1.0.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/9c3306a04ebea24dc5eb47a1266cb822/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+71            android:required="false" />
+71-->[androidx.window:window:1.0.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/9c3306a04ebea24dc5eb47a1266cb822/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+72        <uses-library
+72-->[androidx.window:window:1.0.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/9c3306a04ebea24dc5eb47a1266cb822/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+73            android:name="androidx.window.sidecar"
+73-->[androidx.window:window:1.0.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/9c3306a04ebea24dc5eb47a1266cb822/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+74            android:required="false" />
+74-->[androidx.window:window:1.0.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/9c3306a04ebea24dc5eb47a1266cb822/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+75
+76        <receiver
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+77            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+78            android:directBootAware="false"
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+79            android:enabled="true"
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+80            android:exported="true"
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+81            android:permission="android.permission.DUMP" >
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+82            <intent-filter>
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+83                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+84            </intent-filter>
+85            <intent-filter>
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+86                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+87            </intent-filter>
+88            <intent-filter>
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+89                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+90            </intent-filter>
+91            <intent-filter>
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+92                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/nickteixeira/.gradle/caches/8.13/transforms/138c5d8b79d597c8a4e65c6e24571325/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+93            </intent-filter>
+94        </receiver>
+95    </application>
+96
+97</manifest>
